@@ -1,0 +1,12 @@
+{
+    "name": "padanamic",
+    "version": "1.0.0",
+    "description": "padabanic app store",
+    "scripts": {
+      "start": "serve"
+    },
+    "dependencies": {
+      "serve": "^10.0.1"
+    },
+    "author": "Pulkit Aggarwal"
+  }
